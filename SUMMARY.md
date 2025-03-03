@@ -1,0 +1,45 @@
+# Table of contents
+
+* [Geospatial Intelligence Essential Body of Knowledge 3.0](README.md)
+  * [Overview](readme/overview.md)
+
+## PART I: Technical Competencies
+
+* [Technical Competencies](part-i-technical-competencies/technical-competencies.md)
+* [1.1 Competency 1: GIS and ANALYSIS TOOLS](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/README.md)
+  * [T1. Vector and Vectorization](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t1.-vector-and-vectorization.md)
+  * [T2. Raster and Imagery Analysis](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t2.-raster-and-imagery-analysis.md)
+  * [T3. Geodetic Science, Geographically Referencing Spatial Information, and Positioning](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t3.-geodetic-science-geographically-referencing-spatial-information-and-positioning.md)
+  * [T4. Spatial Topology](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t4.-spatial-topology.md)
+  * [T5. Data Selection and Validation](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t5.-data-selection-and-validation.md)
+  * [T6. Spatial Data Structures and Models](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t6.-spatial-data-structures-and-models.md)
+  * [T7. Analytic Techniques Using Geometric and Topological Relations](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t7.-analytic-techniques-using-geometric-and-topological-relations.md)
+  * [T8. Terrain and 3D Analysis](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t8.-terrain-and-3d-analysis.md)
+  * [T9. Non-Structured Data Analysis](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t9.-non-structured-data-analysis.md)
+  * [T10. Scientific Methods and Conceptual Analytic Modeling](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t10.-scientific-methods-and-conceptual-analytic-modeling.md)
+  * [T11. Structured Analytic Techniques](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t11.-structured-analytic-techniques.md)
+  * [T12. Fundamental Concepts in Geography](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t12.-fundamental-concepts-in-geography.md)
+  * [T13. Neural Networks/Artificial Intelligence (AI)](part-i-technical-competencies/1.1-competency-1-gis-and-analysis-tools/t13.-neural-networks-artificial-intelligence-ai.md)
+* [1.2 Competency 2: REMOTE SENSING and IMAGERY ANALYSIS](part-i-technical-competencies/1.2-competency-2-remote-sensing-and-imagery-analysis.md)
+* [1.3 Competency 3: GEOSPATIAL DATA MANAGEMENT](part-i-technical-competencies/1.3-competency-3-geospatial-data-management.md)
+* [1.4 Competency 4: DATA VISUALIZATION](part-i-technical-competencies/1.4-competency-4-data-visualization.md)
+
+***
+
+* [PART II: Cross-Functional Competencies](part-ii-cross-functional-competencies/README.md)
+  * [Cross-Functional Knowledge and Skills](part-ii-cross-functional-competencies/cross-functional-knowledge-and-skills/README.md)
+    * [2.5 Project Management](part-ii-cross-functional-competencies/cross-functional-knowledge-and-skills/2.5-project-management.md)
+    * [2.4 Group Dynamics](part-ii-cross-functional-competencies/cross-functional-knowledge-and-skills/2.4-group-dynamics.md)
+    * [2.3 Synthesis](part-ii-cross-functional-competencies/cross-functional-knowledge-and-skills/2.3-synthesis.md)
+* [PART III: Emerging Competencies](part-iii-emerging-competencies/README.md)
+  * [3.1 Data Science](part-iii-emerging-competencies/3.1-data-science.md)
+  * [3.2 Use of Varied Datasets](part-iii-emerging-competencies/3.2-use-of-varied-datasets.md)
+  * [3.3 Machine Learning (ML)](part-iii-emerging-competencies/3.3-machine-learning-ml.md)
+  * [3.4 Virtual Reality (VR)](part-iii-emerging-competencies/3.4-virtual-reality-vr.md)
+  * [3.5 Artificial Intelligence (AI)](part-iii-emerging-competencies/3.5-artificial-intelligence-ai.md)
+  * [3.6 Unmanned Aerial Vehicles (UAVs)/Unmanned Aerial Systems (UASs)](part-iii-emerging-competencies/3.6-unmanned-aerial-vehicles-uavs-unmanned-aerial-systems-uass.md)
+  * [3.7 Automation](part-iii-emerging-competencies/3.7-automation.md)
+* [EBK Glossary](ebk-glossary.md)
+* [References](references.md)
+* [Appendix A](appendix-a.md)
+* [Appendix B](appendix-b.md)
